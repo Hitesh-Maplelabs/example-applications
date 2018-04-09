@@ -20,6 +20,9 @@ Example of consuming data ingested by Gobblin on a batch basis and producing Par
 
 [Example of a notebook](jupyter-notebooks) for manipulating network data.
 
+## Flink Streaming
+- [Word Count from socket](flink-streaming-socket-wordcount)
+
 ## H2O
 
 [Application that runs the H2O data science platform as an application on PNDA](h2o-launcher).
