@@ -12,7 +12,7 @@ import org.apache.flink.streaming.api.windowing.time.Time
  * {{{
  * nc -l 9100
  * }}}
- * and run this example with the hostname and the port as arguments, by default it will run on edge node
+ * and run this example with the hostname, port and windowtime as arguments, by default it will run on edge node
  */
 
 
