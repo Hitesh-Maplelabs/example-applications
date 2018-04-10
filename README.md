@@ -21,7 +21,7 @@ Example of consuming data ingested by Gobblin on a batch basis and producing Par
 [Example of a notebook](jupyter-notebooks) for manipulating network data.
 
 ## Flink Streaming
-- [Word Count from socket](flink-streaming-socket-wordcount)
+- [Word Count from socket](flink-streaming-socket-wordcount) (scala) read data from socket and count words.
 
 ## H2O
 

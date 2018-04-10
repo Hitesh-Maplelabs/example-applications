@@ -1,4 +1,4 @@
-# Example Streaming Application (Flink Streaming API)
+# Example Streaming Application: (Flink Streaming API) Wordcount from Socket Data Source
 
 ## Overview
 
@@ -42,7 +42,7 @@ To make the package available for deployment it must be uploaded to a package re
 
 Make sure to set `input_data_host` to the host that is running the `nc -l 9100` command that is used to provide data to the application.
 
-Once the application is running, type some texts into the nc input and view the results in the flink's taskmanager.out on driver host. To view this file navigate to the taskmanager log via the Yarn Resource Manager UI or use the PNDA log server.
+Once the application is running, type some text into the nc input and view the results in the flink's taskmanager.out on driver host. To view this file navigate to the taskmanager log via the Yarn Resource Manager UI or use the PNDA log server.
 
 
 
