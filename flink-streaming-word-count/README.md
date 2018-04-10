@@ -1,4 +1,4 @@
-# Example Streaming Application: (Flink Streaming API) Wordcount from Socket Data Source
+# Example Streaming Application: (Flink Streaming API) Wordcount from Socket DataSource
 
 ## Overview
 
