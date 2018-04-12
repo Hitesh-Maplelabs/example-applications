@@ -20,8 +20,7 @@ Unless required by applicable law or agreed to separately in writing, software d
 License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either
 express or implied.
 */
-package flink;
-
+package com.cisco.pnda.examples.flink;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;

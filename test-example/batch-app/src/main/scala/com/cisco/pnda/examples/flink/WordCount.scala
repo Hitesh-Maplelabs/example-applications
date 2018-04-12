@@ -1,4 +1,4 @@
-package flink
+package com.cisco.pnda.examples.flink;
 
 // package flink-test
 
