@@ -1,0 +1,4 @@
+{
+    "main_class": "com.cisco.pnda.examples.flink.WordCount",
+    "main_jar": "spark-batch-word-count-example.jar",
+}
