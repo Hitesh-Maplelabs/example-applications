@@ -15,7 +15,7 @@
     <dependencySets>
       <dependencySet>
         <outputFileNameMapping>${artifact.artifactId}.${artifact.extension}</outputFileNameMapping>
-        <outputDirectory>/sparkStreaming/example/</outputDirectory>
+        <outputDirectory>/flink/example/</outputDirectory>
         <useProjectArtifact>false</useProjectArtifact>
         <useTransitiveDependencies>true</useTransitiveDependencies>
         <scope>runtime</scope>
