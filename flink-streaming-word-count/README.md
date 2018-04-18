@@ -8,7 +8,7 @@ This example uses the Flink Streaming APIs. When PNDA is configured to use HDP/C
 
 The application is a tar file containing binaries and configuration files required to perform some stream processing.
 
-This example application reads events from a network socket and performs basic counting analytics. To run the data source run the command `nc -l 9100` on the pnda edge node and then type some input into it.
+This example application reads events from a network socket and performs basic counting analytics. To run the data source run the command `nc -l 9100` on the pnda data node and then type some input into it.
 
 The results are printed into the console output of the flink driver process. To view these, navigate to the log file via the Yarn Resource Manager UI or use the PNDA log server.
 
